@@ -259,7 +259,7 @@ The failure test was successfully completed, and the environment returned to **2
 
 ## 1. Target Group – 2/2 Healthy
 
-![Target Group Healthy](screenshot/Target-group-healthy.png)
+![Target Group Healthy](Screenshot/Target-group-healthy.png)
 
 ## 2. Auto Scaling Group
 
