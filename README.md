@@ -256,11 +256,10 @@ The failure test was successfully completed, and the environment returned to **2
 
 # Screenshots
 
-The following screenshots provide evidence of the completed Q3 implementation.
 
 ## 1. Target Group – 2/2 Healthy
 
-![Target Group Healthy](screenshot/Targer-group-healthy.png)
+![Target Group Healthy](screenshot/Target-group-healthy.png)
 
 ## 2. Auto Scaling Group
 
@@ -274,21 +273,7 @@ The following screenshots provide evidence of the completed Q3 implementation.
 
 ![ALB Application Test](Screenshot/ALB-Application-Test.png)
 
----
 
-# Project Structure
-
-```text
-Q3-AWS-High-Availability/
-│
-├── README.md
-│
-└── screenshots/
-    ├── q3-target-group-healthy.png
-    ├── q3-auto-scaling-group.png
-    ├── q3-asg-instance-replacement.png
-    └── q3-alb-application-test.png
-```
 
 ---
 
